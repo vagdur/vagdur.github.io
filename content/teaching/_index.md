@@ -24,7 +24,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Courses lectured
       filters:
         folders:
           - teaching

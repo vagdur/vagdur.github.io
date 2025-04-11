@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: true
-          text_color_light: false
+          text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'

@@ -17,7 +17,7 @@ links:
 abstract: |-
   We prove new lower bounds on the modularity of graphs. Specifically, the modularity of a graph {{< math >}}$G${{< /math >}} with average degree {{< math >}}$\bar d${{< /math >}} is {{< math >}}$\Omega(\bar{d}^{-1/2})${{< /math >}}, under some mild assumptions on the degree sequence of {{< math >}}$G${{< /math >}}. The lower bound {{< math >}}$\Omega(\bar{d}^{-1/2})${{< /math >}} applies, for instance, to graphs with a power-law degree sequence or a near-regular degree sequence.
 
-  It has been suggested that the relatively high modularity of the Erdős-Rényi random graph~{{< math >}}$G_{n,p}${{< /math >}} stems from the random fluctuations in its edge distribution, however our results imply high modularity for any graph with
+  It has been suggested that the relatively high modularity of the Erdős-Rényi random graph {{< math >}}$G_{n,p}${{< /math >}} stems from the random fluctuations in its edge distribution, however our results imply high modularity for any graph with a degree sequence matching that typically found in {{< math >}}$G_{n,p}${{< /math >}}.
 
   The proof of the new lower bound relies on certain weight-balanced bisections with few cross-edges, which build on ideas of Alon [Combinatorics, Probability and Computing (1997)] and may be of independent interest.
 

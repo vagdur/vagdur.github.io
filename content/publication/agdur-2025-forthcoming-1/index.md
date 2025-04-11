@@ -11,6 +11,7 @@ publication_types:
 tags:
   - community detection
   - category theory
+  - algorithms
 image:
   caption: 'A figure from the paper.'
   focal_point: ""

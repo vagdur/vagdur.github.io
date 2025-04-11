@@ -33,14 +33,14 @@ sections:
 #          text_color_light: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a mathematician by training, with a primary focus on community detection methods in graphs, from a combinatorial and algorithmic perspective. On September 26th, I will be defending a PhD thesis on this topic! 🤞
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        During my PhD, I've done quite a bit of teaching, being the responsible lecturer for two different courses, developing the materials and structure for one. I also supervised two bachelor's theses.
+
+        In my spare time from working on my research -- (as surprising as it is that I would have any) -- I have coded up a few hobby projects, mostly about processing or visualising data. Check out the projects section for a selection of that! 😃
     design:
       columns: '1'
   - block: collection

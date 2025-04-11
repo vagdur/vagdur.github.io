@@ -5,7 +5,7 @@ date: 2023-10-01
 type: docs
 math: false
 tags:
-  - combinatorics
+  - graph theory
 image:
   caption: 'One of many figures from the lecture notes'
 links:

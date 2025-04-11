@@ -122,11 +122,11 @@ skills:
       - name: Philosophy
         description: ''
         percent: 60
-        icon: books
+        icon: custom/book-bookmark-solid
       - name: Volunteering
         description: ''
         percent: 100
-        icon: hand-holding-heart
+        icon: custom/hand-holding-heart-solid
 #      - name: Photography
 #        description: ''
 #        percent: 80

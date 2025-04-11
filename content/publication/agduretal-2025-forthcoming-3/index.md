@@ -1,7 +1,7 @@
 ---
 title: Temporal Modularity
 authors:
-- Vilhelm Agdur
+- admin
 - others
 date: '2025-06-01'
 publishDate: '2025-04-11T06:40:48.377319Z'

@@ -9,8 +9,8 @@ tags:
 image:
   caption: 'One of many figures from the lecture notes'
 links:
-- name: Course webpage
-  url: https://vagdur.github.io/Grafteori-1MA170/
+  - name: Course webpage
+    url: https://vagdur.github.io/Grafteori-1MA170/
 ---
 
 This is a course I taught in the fall semester of 2023. I updated the lecture notes and content of the course, adding figures and explanations to what had been a very dry set of lecture notes. As with the combinatorics course, being lecturer also meant being in charge of designing examinations and managing all administrative matters regarding the course.

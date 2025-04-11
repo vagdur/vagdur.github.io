@@ -63,7 +63,7 @@ education:
       The position is financed by [WASP](https://wasp-sweden.org/), the largest-ever privately funded Swedish research program on AI and Autonomous Systems, and thus included significant coursework on artifical intelligence and software engineering.
     button:
       text: 'Coursework transcript'
-      url: 'https://vagdur.github.io/PhDCourseTranscript.pdf'
+      url: 'https://vagdur.github.io/uploads/PhDCourseTranscript.pdf'
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
@@ -75,7 +75,7 @@ education:
       Coursework consisting of a mixture of pure mathematics, statistics, and machine learning. Master's and bachelor's theses in probability.
     button:
       text: 'Coursework transcript'
-      url: 'https://vagdur.github.io/PrePhDCourseTranscript.pdf'
+      url: 'https://vagdur.github.io/uploads/PrePhDCourseTranscript.pdf'
 
 work:
   - position: Lecturer and Teaching Assistant

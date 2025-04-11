@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: uppsala_graphs_bg.png
+          filename: uppsala_graphs_bg2.png
           filters:
             brightness: 1.0
           size: cover

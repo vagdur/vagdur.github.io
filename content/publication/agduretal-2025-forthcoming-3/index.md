@@ -8,9 +8,9 @@ publishDate: '2025-04-11T06:40:48.377319Z'
 publication_types:
 - manuscript
 tags:
-    - community detection
-    - algorithms
-    - temporal graphs
+  - temporal graphs
+  - community detection
+  - algorithms
 image:
   caption: 'A figure from the paper.'
   focal_point: ""

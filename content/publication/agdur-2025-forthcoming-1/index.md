@@ -9,8 +9,8 @@ publication_types:
 #abstract: |-
 #    TBA
 tags:
-  - community detection
   - category theory
+  - community detection
   - algorithms
 image:
   caption: 'A figure from the paper.'

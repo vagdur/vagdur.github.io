@@ -13,9 +13,10 @@ abstract: |-
   A graph class having bounded edge cuts is essentially equivalent to having uniformly bounded local edge connectivity -- so this includes graphs with bounded edge-cut width and with bounded maximum degree. We show some basic results about these graph classes that we need for our main theorem.
 
 tags:
+  - algorithms
   - graph bisections
   - graph cuts
-  - algorithms
+
 image:
   caption: 'A figure from the paper.'
   focal_point: ""

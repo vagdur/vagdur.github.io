@@ -85,7 +85,7 @@ work:
     date_start: 2020-09-01
     date_end: 2025-08-31
     summary: |2-
-      Lectured courses on graph theory and combinatorics, and was a teaching assistant for various basic statistics and probability courses many times.
+      Lectured courses on graph theory and combinatorics, supervised two bachelor's theses, and was a teaching assistant for various basic statistics and probability courses many times.
 #   - position: Backend Software Engineer
 #     company_name: X
 #     company_url: ''

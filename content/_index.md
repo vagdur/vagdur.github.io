@@ -26,11 +26,11 @@ sections:
           # Add your image background to `assets/media/`.
           filename: uppsala_graphs_bg2.png
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: true
-          text_color_light: true
+#          text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'

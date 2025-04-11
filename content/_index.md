@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: brown
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: uppsala_graphs_bg2.png

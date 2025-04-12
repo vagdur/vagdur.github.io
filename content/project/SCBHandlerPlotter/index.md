@@ -7,7 +7,7 @@ tags:
   - statistics
 ---
 
-A little project to make it easier to explore some statistics provided by Statistics Sweden, the Swedish public statistics agency. It provides a handy syntax to grab data that does not require the user to remember which data is in which table, and a function for plotting this data on a map of the country.
+[A little project](https://github.com/vagdur/SCBHandlerPlotter) to make it easier to explore some statistics provided by Statistics Sweden, the Swedish public statistics agency. It provides a handy syntax to grab data that does not require the user to remember which data is in which table, and a function for plotting this data on a map of the country.
 
 [Here is one example of such a plot](https://rpubs.com/vagdur/ogifta), showing the number of unmarried women per unmarried man in the age span 19-33. The data reveals the expected trends -- the rate is highest in the university towns, while in the depopulating rural areas in the north, it is much lower.
 

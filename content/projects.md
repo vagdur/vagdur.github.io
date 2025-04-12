@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I find myself curious about nearly everything -- and sometimes that expresses itself as trying to understand data, and structuring streams of data to turn it into useful information. Here are some examples I can share.
       filters:
         folders:
           - project

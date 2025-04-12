@@ -1,7 +1,7 @@
 ---
 title: SCBHandlerPlotter, plotting public statistics on maps
 date: 2021-03-24
-external_link: https://github.com/vagdur/SCBHandlerPlotter
+#external_link: https://github.com/vagdur/SCBHandlerPlotter
 tags:
   - data visualisation
   - statistics

@@ -1,6 +1,6 @@
 ---
 title: AI-enabled paper import from arXiv to Notion
-date: 2022-06-12
+date: 2024-09-10
 tags:
   - machine learning
   - data processing

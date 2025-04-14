@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Mathematics PhD from Uppsala University with interests in graph theory, statistics, machine learning, and statistics.'
+    description: 'Mathematics PhD from Uppsala University with interests in graph theory, machine learning, and statistics.'
 #    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''

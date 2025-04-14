@@ -38,7 +38,7 @@ sections:
       text: |-
         I am a mathematician by training, with a primary focus on community detection methods in graphs, from a combinatorial and algorithmic perspective. On September 26th, I will be defending a PhD thesis on this topic! 🤞
 
-        During my PhD, I've done quite a bit of teaching, being the responsible lecturer for two different courses, developing the materials and structure for one. I also supervised two bachelor's theses.
+        During my PhD, I've done quite a bit of teaching, being the responsible lecturer for two different courses, developing the materials and structure for one of them. I also supervised two bachelor's theses.
 
         In my spare time from working on my research -- (as surprising as it is that I would have any) -- I have coded up a few hobby projects, mostly about processing or visualising data. Check out the projects section for a selection of that! 😃
     design:

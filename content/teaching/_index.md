@@ -12,10 +12,12 @@ cascade:
 sections:
   - block: markdown
     content:
-      title: ''
+      title: '👨‍🏫 Teaching'
       subtitle: ''
       text: |-
         As part of my employment at Uppsala University for my PhD, I have spent 20% of my time on teaching. Starting out with teaching assistant roles in the first two years, I then moved on to being the course-responsible lecturer for two courses, first in combinatorics and then also in graph theory (more information about these is available below), receiving very positive student feedback on my lectures and materials. I have also supervised two bachelor's theses, and in my free time I am volunteering to teach fifth grade catechesis in my parish.
+
+        ![A photograph of me holding a seminar, back when I still had a beard..](teaching_photo.png "Me holding a seminar, in more hirsute days. When teaching, I of course use a blackboard, since I _am_ a mathematician.")
 
         This varied experience -- from teaching eleven-year-olds to advanced undergraduates -- has nonetheless had one thing in common: Teaching is always about trying to understand how the other person understands the subject, and understanding not just what facts they are missing but what is lacking in their overall understanding, and asking them the right questions and giving them the right information to help them construct their own knowledge.
 

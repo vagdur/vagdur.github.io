@@ -37,3 +37,5 @@ image:
 When applying community detection in practice, one of the most commonly used methods is to try to find a partition that achieves a high _modularity_. Unfortunately, this is not a statistically justified method, and so it is in general unclear how to determine if the partition one finds is actually significant, or just the product of random noise.
 
 In this paper, we improve the best known bounds on the modularity that are agnostic to actual structure of the graph -- so, in essence, we prove that even when there is no significant community structure, there will still be a partition with non-zero modularity. While not a statistical test, this does give some way of heuristically evaluating a partition, since if it does not achieve a much better value than our bound, it is likely just detecting noise in the data.
+
+This paper is joint work with my supervisor, Fiona Skerman, and our collaborator Nina Kamčev. I presented this paper at NetSci 2023, and it is currently under review for journal publication.

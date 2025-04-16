@@ -26,3 +26,5 @@ image:
 When applying community detection methods such as modularity, one encounters an optimization problem of the general form "I have a collection of objects that I need to divide into bags, and for each pair there is a cost or benefit associated to putting them in the same bag". In general, this problem is very hard to solve, but for some particular instances, it is known to be easy when dividing into two bags.
 
 In this paper, we generalize this result to any fixed number of bags, showing that the problem is tractable as long as not too many of the pairs of items have a benefit instead of a cost to being put in the same bag. This result does not directly apply to modularity optimization, because the parameters involved are large for that instance of the problem, but the research is certainly motivated by having attempted to understand the complexity of modularity optimization.
+
+This paper was first presented at the sixth [MMiDP](https://www.umu.se/en/research/groups/discrete-mathematics/midwinter-meeting-in-discrete-probability/), and will soon be put on arXiv. 

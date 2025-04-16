@@ -6,10 +6,10 @@ tags:
   - data collection
 ---
 
-For the 2024 European Parliament elections, SVT, the Swedish public broadcasting corporation, [did a survey](https://valkompass.svt.se/eu-2024/) of all candidates from the established parties on a range of questions that were on the political agenda in that election. Based on this, they constructed a simple quiz to see which candidates most aligned with your own opinions.
+For the 2024 European Parliament elections, SVT, the Swedish public broadcasting corporation, [surveyed](https://valkompass.svt.se/eu-2024/) all candidates from the established parties on a range of key political issues in that election. Based on their responses, SVT created a simple quiz to help voters find the candidates whose views best match their own.
 
-Unfortunately, they provided no filtering by specific issues -- so for example, if one is absolutely unwilling to vote for any candidate opposed to support for Ukraine, it will still recommend candidates with the wrong stance on that issue if they align completely with you on other issues -- and no visualisations or interpretations of the overall data.
+However, the tool has some significant limitations. It doesn’t allow filtering by specific issues -- so, for example, if you strongly support aid to Ukraine, the quiz might still recommend candidates who oppose it, simply because they align with you on other topics. It also lacks any kind of visualisation or summary of the overall data, offering no broader view of the political landscape.
 
-Thus, I decided to gather all their data from their page, and [create such a visualisation](https://rpubs.com/vagdur/EUval2024). The axes of the plot are the two first principal components of the data, which match very well with an intuitive understanding of the stances of the various political parties of Sweden, thus the labels assigned to them.
+To address this, I collected the full dataset from SVT’s site and [created a visualisation](https://rpubs.com/vagdur/EUval2024). The plot’s axes represent the first two principal components of the data, which align closely with a common-sense understanding of where Sweden’s political parties stand -- hence the labels assigned to them.
 
 <!--more-->

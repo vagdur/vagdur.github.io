@@ -12,6 +12,6 @@ Of course, of these, maybe one or two is interesting, so you end up spending a l
 
 [This project](https://github.com/vagdur/arXivToNotion) offers an improved solution to both these problems. Instead of getting the arXiv email, you can directly import all those papers into a Notion database, where you can then sort them according to tags, projects, or any other system of yout choice, with no risk of losing them all because Chrome crashed. It also offers a simple AI recommender algorithm that attempts to sort the papers by how similar they are to things you have found interesting in the past, automating away some of the first sifting of the data.
 
-There are still some more features I would like to add to this: I want to improve the recommender algorithm for it, and create a simple way to set this up to run automatically in the cloud for you, instead of having to manually trigger it each morning.
+There are still some more features I would like to add to this: I want to improve the recommender algorithm for it, and create a simple way to set this up to run automatically in the cloud for you, instead of having to manually trigger it each morning. Finally, using the stored embeddings of the papers for a RAG model, to enable chat about the stored papers, would be very interesting.
 
 <!--more-->

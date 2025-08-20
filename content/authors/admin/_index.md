@@ -56,7 +56,7 @@ education:
   - area: PhD Mathematics
     institution: Uppsala University
     date_start: 2020-09-01
-    date_end: 2025-09-26
+    date_end: 2025-09-19
     summary: |
       Thesis on community detection problems in graphs, with several papers on various aspects of this.
 

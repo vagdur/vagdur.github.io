@@ -180,4 +180,4 @@ languages:
 
 ## About Me
 
-Vilhelm Agdur is a PhD student at Uppsala University, working on community detection problems in graphs, from a combinatorial and algorithmic perspective. As a teacher, he has lectured courses on graph theory and combinatorics, and supervised two bachelor's theses.
+I defended my PhD in mathematics on September 19, 2025. My research focused on community detection problems in graphs from combinatorial and algorithmic perspectives. During my PhD, I lectured courses on graph theory and combinatorics and supervised two bachelor's theses.
